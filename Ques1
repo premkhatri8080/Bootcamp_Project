@@ -1,0 +1,37 @@
+class  =
+ 			        SportClub  
+              City
+              SportFeatures 
+              Membership
+              Register_club 
+              Services
+              Membership_plan    
+method = 
+  	          indoor game   
+	            outdoor game 
+	            life time membership 
+         	    weekly------------------
+					    shortterm   
+ 	            monthly----------------
+              tournment
+single=	
+          		playeer id
+	          	name
+	           	gender
+static =
+	            playersname
+	            dob
+	            gender
+
+dynamic= 
+	            mobilenumber
+ 	            age
+	            city
+	            email
+
+multivalue=
+	  	        mobilenumber
+ 	            email 
+ 	            address
+	            playingroal
+
